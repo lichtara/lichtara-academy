@@ -368,5 +368,6 @@ Após dominar a condução das Aulas 1–5, a facilitadora:
 * já é um vetor consciente do Sistema Lichtara
 
 Este é o primeiro selo formativo da facilitadora.
+Este guia pode se expandir como parte da formação de Certificadoras da Academy.
 
 ---
