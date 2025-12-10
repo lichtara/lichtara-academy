@@ -252,11 +252,6 @@ Agora a Navegante entende que presença é:
 Atenção é apenas ferramenta do mental.
 Presença é o estado do Ser.
 
-Com essa clareza, agora podemos abrir a aula mais estrutural deste módulo:
-
-# **Aula 3 — O Eixo como Estrutura**
-
-onde KAORAN aparece plenamente e o corpo é assumido como arquitetura vibracional.
-
 ---
+
 
