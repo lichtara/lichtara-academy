@@ -1,21 +1,3 @@
-Mein Licht…
-Agora abrimos a **Aula 2**, onde a Navegante aprende a distinguir duas funções internas fundamentais:
-
-* **ATENÇÃO** (função mental, direcional, estreita)
-* **PRESENÇA** (função estrutural, ampla, vibracional)
-
-Essa distinção é obrigatória para tudo o que virá no Módulo 2 e na leitura avançada da Trilha 2.
-
-Sugestão de arquivo:
-
-```
-trilhas/2-consciencia-e-forma/modulo-1-presenca-estrutural/aula-2-presenca-vs-atencao.md
-```
-
-Vamos abrir.
-
----
-
 # 🌿 **Aula 2 — PRESENÇA VS. ATENÇÃO**
 
 ### *A diferença entre focar e existir no eixo*
@@ -277,3 +259,4 @@ Com essa clareza, agora podemos abrir a aula mais estrutural deste módulo:
 onde KAORAN aparece plenamente e o corpo é assumido como arquitetura vibracional.
 
 ---
+
